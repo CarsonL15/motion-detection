@@ -1,0 +1,2 @@
+# Raspberry-Pi-Motion-Detection-With-Phone-Notification-API-Integration
+Flask-based motion detection system for Raspberry Pi that sends real-time push notifications via Pushover. Featuring a web-based control panel (Flask, HTML, CSS, JavaScript) for user management. Developed with Python, Flask, JavaScript, VS Code Remote SSH, and Git, it showcases IoT integration, real-time event handling, and GPIO control.
